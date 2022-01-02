@@ -1,0 +1,16 @@
+{
+    "name": "tabtt/msg",
+    "description": "message",
+    "autoload": {
+        "psr-4": {
+            "Tabtt\\Msg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tokky",
+            "email": "jiazaicunsong@gmail.com"
+        }
+    ],
+    "require": {}
+}
